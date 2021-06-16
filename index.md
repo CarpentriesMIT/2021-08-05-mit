@@ -9,7 +9,7 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "42.359689" # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-71.090542"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Aug 05-06 and Aug 10, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Aug 05-06 and Aug 09-10, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "08:30 am - 12:30 pm OR 1:00 pm - 5 pm ET"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-08-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-08-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -271,16 +271,22 @@ Edit the text to match who can attend the workshop. For instance:
 <h2 id="registration">Registration</h2>
 <p>
 All registrations open on 12pm ET, Thu, July 8, 2021.
+</p>
 
-To register for the Python track (Unix Shell + Python + Git/GitHub), please register for the four-day workshop at <a href=https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python>https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python</a> .
+<p>
+To register for the Python track (Unix Shell + Python + Git/GitHub), please register for the four-day workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python">https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python</a> .
+</p>
 
-To register for the R track (Unix Shell + R + Git/GitHub), please register for the four-day workshop at <a href= https://libcal.mit.edu/calendar/events/carpentries2021-08-05R> https://libcal.mit.edu/calendar/events/carpentries2021-08-05R</a
+<p>
+To register for the R track (Unix Shell + R + Git/GitHub), please register for the four-day workshop at <a href= "https://libcal.mit.edu/calendar/events/carpentries2021-08-05R"> https://libcal.mit.edu/calendar/events/carpentries2021-08-05R</a
+</p>
 
+<p>
 You are expected to attend the workshop on all four afternoons for each track. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you!
+</p>
 
-We do not recommend attending both Python and R tracks. We will host more workshops in the near future. Or you can find other upcoming workshops from <a href=https://carpentries.org/upcoming_workshops/>Carpentries workshop page</a>.   
-
-
+<p>
+We do not recommend attending both Python and R tracks. We will host more workshops in the near future. Or you can find other upcoming workshops from <a href="https://carpentries.org/upcoming_workshops/"">Carpentries workshop page</a>.   
 </p>
 
 
