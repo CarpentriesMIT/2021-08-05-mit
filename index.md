@@ -278,7 +278,7 @@ To register for the Python track (Unix Shell + Python + Git/GitHub), please regi
 </p>
 
 <p>
-To register for the R track (Unix Shell + R + Git/GitHub), please register for the four-day workshop at <a href= "https://libcal.mit.edu/calendar/events/carpentries2021-08-05R"> https://libcal.mit.edu/calendar/events/carpentries2021-08-05R</a
+To register for the R track (Unix Shell + R + Git/GitHub), please register for the four-day workshop at <a href= "https://libcal.mit.edu/calendar/events/carpentries2021-08-05R"> https://libcal.mit.edu/calendar/events/carpentries2021-08-05R</a>
 </p>
 
 <p>
