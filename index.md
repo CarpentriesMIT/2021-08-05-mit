@@ -267,6 +267,23 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+
+<h2 id="registration">Registration</h2>
+<p>
+All registrations open on 12pm ET, Thu, July 8, 2021.
+
+To register for the Python track (Unix Shell + Python + Git/GitHub), please register for the four-day workshop at <a href=https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python>https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python</a> .
+
+To register for the R track (Unix Shell + R + Git/GitHub), please register for the four-day workshop at <a href= https://libcal.mit.edu/calendar/events/carpentries2021-08-05R> https://libcal.mit.edu/calendar/events/carpentries2021-08-05R</a
+
+You are expected to attend the workshop on all four afternoons for each track. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you!
+
+We do not recommend attending both Python and R tracks. We will host more workshops in the near future. Or you can find other upcoming workshops from <a href=https://carpentries.org/upcoming_workshops/>Carpentries workshop page</a>.   
+
+
+</p>
+
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
