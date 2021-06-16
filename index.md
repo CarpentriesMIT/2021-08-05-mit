@@ -270,15 +270,15 @@ Edit the text to match who can attend the workshop. For instance:
 
 <h2 id="registration">Registration</h2>
 <p>
-All registrations open on 12pm ET, Thu, July 8, 2021.
+All registrations open on 12pm ET, Thu, July 8, 2021. The specific schedules for both Python track and R track are listed under the SCHEDULE section below. 
 </p>
 
 <p>
-To register for the Python track (Unix Shell + Python + Git/GitHub), please register for the four-day workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python">https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python</a> .
+To attend the <b>Python track</b> (Unix Shell + Python + Git/GitHub), please register for the four-day workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python">https://libcal.mit.edu/calendar/events/carpentries2021-08-05Python</a> .
 </p>
 
 <p>
-To register for the R track (Unix Shell + R + Git/GitHub), please register for the four-day workshop at <a href= "https://libcal.mit.edu/calendar/events/carpentries2021-08-05R"> https://libcal.mit.edu/calendar/events/carpentries2021-08-05R</a>
+To attend the <b>R track</b> (Unix Shell + R + Git/GitHub), please register for the four-day workshop at <a href= "https://libcal.mit.edu/calendar/events/carpentries2021-08-05R"> https://libcal.mit.edu/calendar/events/carpentries2021-08-05R</a>
 </p>
 
 <p>
@@ -286,7 +286,7 @@ You are expected to attend the workshop on all four afternoons for each track. I
 </p>
 
 <p>
-We do not recommend attending both Python and R tracks. We will host more workshops in the near future. Or you can find other upcoming workshops from <a href="https://carpentries.org/upcoming_workshops/"">Carpentries workshop page</a>.   
+We do not recommend attending both Python and R tracks. We will host more workshops in the near future. Or you can find other upcoming workshops from <a href="https://carpentries.org/upcoming_workshops/">Carpentries workshop page</a>.   
 </p>
 
 
