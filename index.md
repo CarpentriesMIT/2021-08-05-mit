@@ -270,7 +270,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <h2 id="registration">Registration</h2>
 <p>
-All registrations open on 12pm ET, Thu, July 8, 2021. The specific schedules for both Python track and R track are listed under the SCHEDULE section below. 
+<b>All registrations open on 12pm ET, Thu, July 8, 2021</b>. The specific schedules for both Python track and R track are listed under the SCHEDULE section below. 
 </p>
 
 <p>
