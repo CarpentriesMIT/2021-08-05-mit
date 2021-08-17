@@ -14,7 +14,7 @@ humantime: "08:30 am - 12:30 pm OR 1:00 pm - 5 pm ET"    # human-readable times 
 startdate: 2021-08-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-08-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ye Li" ," Ece Turnator", "Madeline R Wrable", "Daniel Sheehan", "Christine Malinowski", "Jennie Murack", "Phoebe Ayers"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Phoebe Ayers", "Jack Cavanagh", "Sabhya Gupta", "Ye Li","Christine Malinowski", "Jennie Murack",Jack Payette", "Daniel Sheehan", "Ece Turnator", "Madeleine Wrable"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Phoebe Ayers", "Jack Cavanagh", "Sabhya Gupta", "Ye Li","Christine Malinowski", "Jennie Murack","Jack Payette", "Daniel Sheehan", "Ece Turnator", "Madeleine Wrable"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: [
   "jcavanagh@povertyactionlab.org",
 "sabhyag@mit.edu",
